@@ -1,5 +1,5 @@
-### I'm a Systems Engineer in training, with knowledge of
-programming languages such as Python, Java, C ++,
+### I'm a Systems Engineer in training 
+with knowledge of programming languages such as Python, Java, C ++,
 SQL, Django in addition to having bases in strategies
 for software development. I have skills to work in a
 team, compliance with goals, effective communication
