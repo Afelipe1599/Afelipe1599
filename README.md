@@ -1,4 +1,12 @@
-### Hi there 👋
+### I'm a Systems Engineer in training, with knowledge of
+programming languages such as Python, Java, C ++,
+SQL, Django in addition to having bases in strategies
+for software development. I have skills to work in a
+team, compliance with goals, effective communication
+and learning and adapt to new technologies. With
+interest to work in software development, quantum
+computing and mobile application development. Member
+of the software development laboratory of the Universidad del Valle (CEDESOFT).
 
 <!--
 **Afelipe1599/Afelipe1599** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
